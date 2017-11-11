@@ -11,6 +11,14 @@ var button9=document.getElementById('buttonh9');
 var buttona=document.getElementById('buttonha');
 var buttonb=document.getElementById('buttonhb');
 var buttonc=document.getElementById('buttonhc');
+var buttonI1=document.getElementById('buttonI1');
+var buttonI2=document.getElementById('buttonI2');
+var buttonI3=document.getElementById('buttonI3');
+var buttonI4=document.getElementById('buttonI4');
+var buttonD1=document.getElementById('buttonD1');
+var buttonD2=document.getElementById('buttonD2');
+var buttonD3=document.getElementById('buttonD3');
+var buttonD4=document.getElementById('buttonD4');
 var p1=document.getElementById('ph1');
 var p2=document.getElementById('ph2');
 
